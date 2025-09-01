@@ -39,7 +39,7 @@ Whether you’re a **data engineer**, **data scientist**, or **retail analyst**,
 - 🎯 Configurable parameters (products, stores, customers)  
 - 📦 Batch generation & sliding window (last 1000 transactions)  
 - ⏱️ Adjustable frequency of data streaming  
-
+![img alt](https://github.com/birukG09/Real-Time-Retail-Analytics/blob/e68541d87d4182ff11fe216df246c606066e7692/FireShot%20Capture%20006%20-%20Advanced%20Retail%20Analytics%20Platform_%20-%20%5B3680128b-5c43-4838-ba7a-2e7eab9595b4-00-3qhygwgjk12q4.worf.replit.dev%5D.png)
 ### 🧮 Analytics Engine  
 - 📊 Multi-dimensional metrics (time, category, store, customer)  
 - 📈 Revenue tracking & trend detection  
