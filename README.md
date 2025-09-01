@@ -132,7 +132,7 @@ Then open 👉 [http://localhost:8501](http://localhost:8501)
 - 🛡️ For production: containerize with Docker + deploy behind authentication  
 - ☁️ Can be scaled with **Kafka + Spark Streaming** replacing the Python generator for real event ingestion  
 - 📡 Deploy on **AWS/GCP/Azure** with managed dashboards  
-
+![img alt](https://github.com/birukG09/Real-Time-Retail-Analytics/blob/02bafbba6e8b7ca540b33ea5c328e593fa2199b3/20250901_1819_Real-Time%20Retail%20Dashboard_remix_01k42xmc36e6es2gnk2tept919.png)
 ---
 
 ## 🌍 Example Use Cases  
