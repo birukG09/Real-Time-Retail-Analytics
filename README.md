@@ -8,7 +8,7 @@
 
 > ⚡ A next-gen real-time retail analytics system powered by **Streamlit**, **Pandas**, and **Machine Learning**.  
 > Simulate live retail transactions, detect anomalies, and visualize insights with interactive dashboards.  
-
+![img alt](https://github.com/birukG09/Real-Time-Retail-Analytics/blob/8e4b063d4ff2494389494b99dc2793227db191ca/FireShot%20Capture%20005%20-%20Advanced%20Retail%20Analytics%20Platform_%20-%20%5B3680128b-5c43-4838-ba7a-2e7eab9595b4-00-3qhygwgjk12q4.worf.replit.dev%5D.png)
 ---
 
 ## 🌟 Overview  
