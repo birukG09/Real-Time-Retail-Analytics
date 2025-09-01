@@ -1,7 +1,7 @@
 # 📊 README – Real-Time Retail Analytics Dashboard  
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)  
-[![Streamlit](https://img.shields.io/badge/streamlit-app-orange)](https://streamlit.io/)  
+ 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()  
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg)]()  
